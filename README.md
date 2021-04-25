@@ -4,6 +4,7 @@ Code for the YouTube video https://youtu.be/piBJlrgzrMw
 ## References
 - Jenkins CI https://www.jenkins.io/download/
 - Plugin Demo https://github.com/kiwitcms/plugin-demo
+- Variables available in Jenkins https://wiki.jenkins.io/display/JENKINS/Building+a+software+project#Buildingasoftwareproject-belowJenkinsSetEnvironmentVariables
 
 ## Pipeline
 ```
